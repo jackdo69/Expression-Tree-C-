@@ -1,0 +1,76 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jack/Desktop/UTS/Data Structures and Algorithms/test_environment/Assignment1Tests.cpp
+cxxtest/TestListener.h
+-
+cxxtest/TestTracker.h
+-
+cxxtest/TestRunner.h
+-
+cxxtest/RealDescriptions.h
+-
+cxxtest/TestMain.h
+-
+cxxtest/ErrorPrinter.h
+-
+Assignment1Tests.h
+/home/jack/Desktop/UTS/Data Structures and Algorithms/test_environment/Assignment1Tests.h
+cxxtest/Root.cpp
+-
+
+/home/jack/Desktop/UTS/Data Structures and Algorithms/test_environment/Assignment1Tests.h
+cxxtest/TestSuite.h
+-
+iostream
+-
+vector
+-
+string
+-
+cstdlib
+-
+sstream
+-
+ExprTree.h
+/home/jack/Desktop/UTS/Data Structures and Algorithms/test_environment/ExprTree.h
+
+/home/jack/Desktop/UTS/Data Structures and Algorithms/test_environment/ExprTree.cpp
+ExprTree.h
+/home/jack/Desktop/UTS/Data Structures and Algorithms/test_environment/ExprTree.h
+sstream
+-
+iostream
+-
+algorithm
+-
+
+/home/jack/Desktop/UTS/Data Structures and Algorithms/test_environment/ExprTree.h
+queue
+-
+stack
+-
+vector
+-
+string
+-
+cstdlib
+-
+TreeNode.h
+/home/jack/Desktop/UTS/Data Structures and Algorithms/test_environment/TreeNode.h
+
+/home/jack/Desktop/UTS/Data Structures and Algorithms/test_environment/TreeNode.cpp
+TreeNode.h
+/home/jack/Desktop/UTS/Data Structures and Algorithms/test_environment/TreeNode.h
+
+/home/jack/Desktop/UTS/Data Structures and Algorithms/test_environment/TreeNode.h
+string
+-
+sstream
+-
+
